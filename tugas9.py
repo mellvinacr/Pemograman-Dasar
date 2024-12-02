@@ -82,5 +82,8 @@ for i,j in data_panen.items():
      else :
           print (f"Pada{i} tidak memerlukan perhatian khusus\n")
 
+#percobaan soal no 7
+print ("NO. 7\n")
+
 
 
