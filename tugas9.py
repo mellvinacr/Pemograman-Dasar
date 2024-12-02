@@ -85,5 +85,6 @@ for i,j in data_panen.items():
 #percobaan soal no 7
 print ("NO. 7\n")
 
-
+#percobaan soal no 7 bagian 3
+print ('No. 7 bagian 3\n')
 
